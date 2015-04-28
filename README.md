@@ -4,7 +4,7 @@
 * American Jewish World Service: http://ajws.org
 * AmeriCares: http://americares.org
 * The Salvation Army: http://salvationarmyusa.org
-* International Medical Corps: http://nternationalmedicalcorps.org
+* International Medical Corps: http://internationalmedicalcorps.org
 * Handicap International: http://handicap-international.us
 * Unicef: http://unicef.org
 * PayPal: http://paypal.com
