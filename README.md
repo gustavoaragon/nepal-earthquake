@@ -1,5 +1,5 @@
 # Nepal Earthquake: Where to Donate
-### Here is a list of some of the groups soliciting donations for relief efforts in Nepal:
+#### Here is a list of some of the groups soliciting donations for relief efforts in Nepal:
 
 * American Jewish World Service: http://ajws.org
 * AmeriCares: http://americares.org
