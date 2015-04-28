@@ -4,11 +4,11 @@
 * American Jewish World Service: http://ajws.org
 * AmeriCares: http://americares.org
 * The Salvation Army: http://salvationarmyusa.org
-* International Medical Corps: ihttp://nternationalmedicalcorps.org
+* International Medical Corps: http://internationalmedicalcorps.org
 * Handicap International: http://handicap-international.us
 * Unicef: http://unicef.org
 * PayPal: http://paypal.com
-*Mercy Corps: http://mercycorps.org
+* Mercy Corps: http://mercycorps.org
 * Catholic Relief Services: http://crs.org
 * Habitat for Humanity International: http://habitat.org
 * Global Giving: http://globalgiving.org
